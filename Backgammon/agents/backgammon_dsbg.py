@@ -21,7 +21,7 @@ class BackgammonPlayer:
     # returns a string representing a unique nick name for your agent
     def nickname(self):
         # TODO: return a string representation of your UW netid(s)
-        return "Panacea"
+        return "DSBG"
 
     # If prune==True, changes the search algorthm from minimax
     # to Alpha-Beta Pruning

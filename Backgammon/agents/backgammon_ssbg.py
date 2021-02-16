@@ -17,7 +17,7 @@ class BackgammonPlayer:
     # returns a string representing a unique nick name for your agent
     def nickname(self):
         # TODO: return a unique nick name for your agent
-        return "Panacea"
+        return "SSBG"
 
     # Given a ply, it sets a maximum for how far an agent
     # should go down in the search tree. If maxply==-1,
